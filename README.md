@@ -1,6 +1,6 @@
-# Cameroon Land Registry - Digital Land Ownership Management System
+# Digital Nationwide Land Registry, Land Ownership and Land Verification Management System
 
-A comprehensive GIS-enabled enterprise web platform for digitizing land ownership registration, verification, and administration processes in Cameroon.
+This project encompasses a comprehensive GIS-enabled enterprise web platform for digitalizing land registration, ownership, verification, and administration processes in Cameroon.
 
 ## Project Structure
 
