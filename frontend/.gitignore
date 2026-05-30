@@ -1,0 +1,38 @@
+# Frontend — React + Vite
+
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+dist-ssr/
+
+# Vite
+.vite/
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing & coverage
+coverage/
+
+# TypeScript (if added later)
+*.tsbuildinfo
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Optional PWA / tooling caches
+.eslintcache
+.stylelintcache

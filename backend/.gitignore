@@ -1,0 +1,38 @@
+# Backend — Express + PostgreSQL
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# User-uploaded documents (served from /uploads)
+uploads/*
+!uploads/.gitkeep
+
+# Logs & debug
+logs/
+*.log
+npm-debug.log*
+nodemon-debug.log
+
+# Runtime
+pids/
+*.pid
+*.seed
+
+# Test / coverage
+coverage/
+.nyc_output/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local database exports
+*.sql.backup
+dumps/
